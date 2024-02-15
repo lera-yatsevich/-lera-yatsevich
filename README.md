@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&labelColor=blue&link=https%3A%2F%2Ft.me%2FLERABARNARD">
 </a>
 
+<a href="https://wa.me/qr/VKF4W42OBOVEK1">
+    <img src="https://img.shields.io/badge/-WhatsApp-lightgrey?style=flat-square&logo=WhatsApp&link=https%3A%2F%2Fwa.me%2Fqr%2FVKF4W42OBOVEK1">
+</a>
+
 
 ## Стэк
 - 💖 Python (pandas, pyspark, plotly, psycopg2, aiogram, sklearn, openai, etc.)
