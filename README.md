@@ -15,12 +15,12 @@
 
 
 ## Стэк
-- 💖 Python (pandas, pyspark, plotly, psycopg2, aiogram, sklearn, openai, etc.)
-- 💖 SQL (HiveQL, PostgreSQL, Oracle)
-- 💖 Airflow
-- 💖 Git
-- 💖 Power BI/Excel
-- 💖 Docker (начальный уровень)
-- 💖 Scala (начальный уровень)
-- 💖 Jira, Confluence
+- Python <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="CSS Logo" width="25" height="25"/> (pandas <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="CSS Logo" width="25" height="25"/> , pyspark <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="CSS Logo" width="25" height="25"/>, openai <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="CSS Logo" width="25" height="25"/>, plotly, psycopg2, aiogram, sklearn, etc.) 
+- SQL (HiveQL, PostgreSQL <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="CSS Logo" width="25" height="25"/>, Oracle)
+- Airflow
+- Git <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="25" height="25"/> 
+- Power BI <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="CSS Logo" width="25" height="25"/>, Excel <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="CSS Logo" width="25" height="25"/>
+- Docker <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="CSS Logo" width="25" height="25"/> (начальный уровень)
+- Scala <img src="https://cdn.worldvectorlogo.com/logos/scala-4.svg" alt="CSS Logo" width="25" height="25"/> (начальный уровень)
+- Jira <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="CSS Logo" width="25" height="25"/>, Confluence <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="CSS Logo" width="25" height="25"/> 
 
